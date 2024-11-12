@@ -27,5 +27,5 @@ Este projeto é um chatbot interativo, chamado **Artemis**, que fornece informa�
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu_usuario/chatbot-covid19.git
+git clone https://github.com/gufolena/chat_bot_covid19.git
 cd chatbot-covid19
